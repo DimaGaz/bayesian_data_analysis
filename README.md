@@ -8,9 +8,6 @@ _"Statistics is the study of how to collect, analyze, and draw conclusions from 
 
 The following part consist of four chapters:
 - __Summary Statistics__: Summary statistics gives you the tools you need to boil down massive datasets to reveal the highlights. In this chapter, we explore summary statistics including mean, median, and standard deviation, and learn how to accurately interpret them.
-
 - __Random Numbers and Probability__: In this chapter, we learn how to generate random samples and measure chance using probability.
-
 - __More Distributions and the Central Limit Theorem__: We explore one of the most important probability distributions in statistics, normal distribution and gain an understanding of the central limit theorem.
-
-= __Correlation and Experimental Design__: In this chapter, we learn how to quantify the strength of a linear relationship between two variables, and explore how confounding variables can affect the relationship between two other variables.
+- __Correlation and Experimental Design__: In this chapter, we learn how to quantify the strength of a linear relationship between two variables, and explore how confounding variables can affect the relationship between two other variables.
