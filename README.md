@@ -11,3 +11,6 @@ The "Introduction to Statistics in Python" part consist of four chapters:
 - __Random Numbers and Probability__: In this chapter, we learn how to generate random samples and measure chance using probability.
 - __More Distributions and the Central Limit Theorem__: We explore one of the most important probability distributions in statistics, normal distribution and gain an understanding of the central limit theorem.
 - __Correlation and Experimental Design__: In this chapter, we learn how to quantify the strength of a linear relationship between two variables, and explore how confounding variables can affect the relationship between two other variables.
+
+## 2. Bayesian Data Analysis in Python
+In this course, we’ll get to grips with A/B testing, decision analysis, and linear regression modeling using a Bayesian approach as we analyze [real-world advertising, sales, and bike rental data](https://app.datacamp.com/learn/courses/bayesian-data-analysis-in-python). Finally, we’ll get hands-on with the PyMC3 library, which will make it easier for us to design, fit, and interpret Bayesian models
