@@ -13,4 +13,20 @@ The "Introduction to Statistics in Python" part consist of four chapters:
 - __Correlation and Experimental Design__: In this chapter, we learn how to quantify the strength of a linear relationship between two variables, and explore how confounding variables can affect the relationship between two other variables.
 
 ## 2. Bayesian Data Analysis in Python
-In this course, we’ll get to grips with A/B testing, decision analysis, and linear regression modeling using a Bayesian approach as we analyze [real-world advertising, sales, and bike rental data](https://app.datacamp.com/learn/courses/bayesian-data-analysis-in-python). Finally, we’ll get hands-on with the PyMC3 library, which will make it easier for us to design, fit, and interpret Bayesian models
+In this course, we’ll get to grips with A/B testing, decision analysis, and linear regression modeling using a Bayesian approach as we analyze [real-world advertising,  bike rental, and avocado sales data](https://app.datacamp.com/learn/courses/bayesian-data-analysis-in-python). Finally, we’ll get hands-on with the PyMC3 library, which will make it easier for us to design, fit, and interpret Bayesian models. In this chapter we will cover:
+1. The Bayesian Way
+    - Bayesian vs. frequentist approach
+    - Probability theory & distributions
+    - Updating beliefs with more data
+2. Bayesian Estimation
+    - Grid approximation
+    - Prior distributions
+    - Reporting Bayesian results
+3. Bayesian Inference
+    - A/B testing
+    - Decision analysis
+    - Forecasting & regression
+4. Bayesian Linear Regression
+    - Markov Chain Monte Carlo (MCMC)
+    - Fitting and interpreting models with `pymc3`
+    - Bayesian data analysis: a case study (separate notebbok `how_much_is_an_avocado')
