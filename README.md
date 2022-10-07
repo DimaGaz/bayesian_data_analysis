@@ -29,4 +29,4 @@ In this course, we’ll get to grips with A/B testing, decision analysis, and li
 4. Bayesian Linear Regression
     - Markov Chain Monte Carlo (MCMC)
     - Fitting and interpreting models with `pymc3`
-    - Bayesian data analysis: a case study (separate notebbok `how_much_is_an_avocado')
+    - Bayesian data analysis: a case study (separate notebbok `how_much_is_an_avocado`)
