@@ -1,5 +1,5 @@
 # bayesian_data_analysis
-[_"Bayesian data analysis is an increasingly popular method of statistical inference, used to determine conditional probability without having to rely on fixed constants such as confidence levels or p-values."_](https://app.datacamp.com/learn/courses/bayesian-data-analysis-in-python) In this project, We’ll learn how Bayesian data analysis works, how it differs from the classical approach, and why it’s an indispensable part of a data science toolbox. 
+[_"Bayesian data analysis is an increasingly popular method of statistical inference, used to determine conditional probability without having to rely on fixed constants such as confidence levels or p-values."_](https://app.datacamp.com/learn/courses/bayesian-data-analysis-in-python) In this project, we’ll learn how Bayesian data analysis works, how it differs from the classical approach, and why it’s an indispensable part of a data science toolbox. 
 
 These project is based on two DataCamp courses: [Introduction to Statistics in Python](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python) and [Bayesian Data Analysis in Python](https://app.datacamp.com/learn/courses/bayesian-data-analysis-in-python). The execution of the two parts will be conducted via two seperate Jupyter notebooks. 
 
